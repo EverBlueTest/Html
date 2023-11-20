@@ -2,7 +2,7 @@ EverBlue Creator-----------------------------------------------------------
 
 1. --
    
-   All the files in this branch are totally free and GNU License installed.
+   All the content in this branch is only informative.
    
 3. --
    
