@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+    border-collapse: collapse;
+}
+
+th, td {
+    background-color: #96D4D4;
+}
+
+.nota {
+    text-decoration: none;
+    color: gainsboro;
+}
+
+.creditos {
+    text-decoration: none;
+    color: black;
+}
